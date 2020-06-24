@@ -1,3 +1,3 @@
-**Alem School** student
-I study *Golang*, *HTML+CSS*, *JavaScript*.
-Familiar with *C++*, *IoT Fundamentals*, *IT Essentials* and *Packet Tracer*.
+**Alem School** student.<br/>
+Study *Golang*, *HTML+CSS*, *JavaScript*.<br/>
+Familiar with *C++*, *IoT Fundamentals*, *IT Essentials* and *Packet Tracer*.<br/>

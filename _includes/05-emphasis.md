@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Alem School** student
+I study *Golang*, *HTML+CSS*, *JavaScript*.
+Familiar with *C++*, *IoT Fundamentals*, *IT Essentials* and *Packet Tracer*.

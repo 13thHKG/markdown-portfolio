@@ -1,0 +1,1 @@
+![Hokage Headdress](https://upload.wikimedia.org/wikipedia/commons/8/88/Chapeau_Hiruzen_Sarutobi.svg)

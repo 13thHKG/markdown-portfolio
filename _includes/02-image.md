@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Hokage Headdress](https://upload.wikimedia.org/wikipedia/commons/8/88/Chapeau_Hiruzen_Sarutobi.svg)
